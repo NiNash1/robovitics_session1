@@ -1,3 +1,3 @@
 # robovitics_session1
-#yo its nash who has attended the session
+# First robovitics cs session
 Git and Github session 
